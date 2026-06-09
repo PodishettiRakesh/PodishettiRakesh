@@ -150,12 +150,6 @@ Full-stack food ordering platform featuring:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PodishettiRakesh&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PodishettiRakesh&layout=compact&theme=tokyonight)
-
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PodishettiRakesh&theme=tokyonight&hide_border=true)
